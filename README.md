@@ -1,6 +1,9 @@
-# SubList
+# SubLists
 
-Collapsible foldout groups for inspector fields. Replaces `[Header]`.
+<img width="281" height="361" alt="Screenshot 2026-02-28 at 3 41 30 PM" src="https://github.com/user-attachments/assets/de72d375-ff33-4a96-bdd9-22da969f6f50" />
+
+
+Collapsible foldout groups for inspector fields. Essentially replacing `[Header]`.
 
 ## Usage
 
